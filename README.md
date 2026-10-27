@@ -26,7 +26,7 @@ Expense Tracker is a project that brings together a React frontend and a Spring 
 - MySQL
 
 Project Structure
-
+```
 expense-tracker/
 ├── expense-tracker/                         # Spring Boot Backend
 │   ├── src/
@@ -74,7 +74,7 @@ expense-tracker/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 ## Prequisites
 
 . Java JDK
